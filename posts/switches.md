@@ -1,0 +1,48 @@
+# Switches
+
+Switches are the thing that makes a mechanical keyboard mechanical. Until recently, a german company under the name Cherry held a patent over the mechanical switches and dominated the market. Thankfully, their patent from 1973 has expired in the recent years which has caused a surge in different companies making switches. Since then companies such as Gateron and Kaihua / Kailh have made switches that are both better and more durable and expanded the market with a plethora of options, too many to even cover all of them in this guide, however, there are 3 categories of switches and most people tend to have their preference of switches, those categories include linears, tactiles and clickies.
+
+# Linears
+Linears are the most standard switches of the bunch, providing a smooth and as the name suggests, linear actuation of the switch. These switches oftentimes actuate about midway through the bottom out. Popular options of linears are as follows:
+
+- Cherry MX Reds
+- NK Creams
+- Gateron Yellows
+
+Cherry MX Reds are quite expensive in terms of pricing, costing about US$1.00/switch, which is not a very good price due to the fact that they are considered quite scratchy for linears. However, they are popular because they are the name brand and are included in many pre-built boards.
+
+NK Creams are a very popular linear switch due to being very reasonably priced US$0.65 and are manufactured by Kaihua / Kailh for Novelkeys, which is about middle of the road for mechanical keyboard switches. These switches are widely regarded as some of the smoothest stock switches you can get without lubricating the switches. I personally have some of them and find them very smooth.
+
+Gateron Yellows are the budget option as they are priced at the very cheap at anywhere between US$0.20/switch and US$0.40/switch. For the price, they are considered to be very smooth and a lot of people building budget boards will choose these switches. They also take lube very well and can end up being some of the smoothest switches possible.
+
+# Tactiles
+
+Tactile switches are characterized by their tactile bump during actuation, allowing you to feel the exact moment when your keystroke will be registered by the keyboard, this provides an almost typewriter like experience that many people enjoy. Popular options for tactiles are as follows:
+
+- Cherry MX Browns
+- Durock T1s
+- Hako Clear / True
+- Holy Pandas
+
+Much like the aformentionned Cherry MX Reds, the same story applies with the Cherry MX Browns, while they are popular, they are overprices at US$1.00/switch. While they are technically considered tactiles, many users report that they instead feel like "scratchy linears", something that has become a tongue-and-cheek joke in the mechanical community. 
+
+Durock T1s are very reasonably priced about US$0.55/switch, and have a very pronounced tactile bump at the start of the top of the key press, they are very popular as they are very similar to the more expensive Zealios V2 switches that are much, much more expensive. 
+
+Hako Clear / True switches are essentially the same with different weight springs, the bump on the Hako switches is less pronounced than the one on the T1s, but more than the Cherry MX browns, providing a good middle ground that many users enjoy, in addition to this, they are very reasonably priced at about US$0.40/switch. 
+
+Holy Pandas are a very rare, and very sought after. They are a switch that essentially combines different parts from two different switches. According to users, these switches provide a very pronounced and smooth tactile feeling that is heavily desirable. This low supply and high demand causes their price to rise, being very expensive switches at around US$1.50/switch.
+
+# Clickies
+
+Clickies are often the poster-child of mechanical keyboards, popularized by gaming keyboards such as the lower quality Razer Hunstman keyboard line. Despite these being often recognized as mechanical keyboard switches, they are one of the least popular switches in the custom mechanical keyboard community. These switches are characterized by the audible "click" when the switch is actuated. These switches are also tactile as there is a bump at the same time as the click. Popular options for clicky switches areas follows:
+
+- Cherry MX Blues
+- Box Jades
+- Gateron Blues
+
+Cherry MX Blues are the odd man out in the Cherry MX family as they are actually quite good at what they set out to accomplish, they provide a satisfying click when actuated and unlike the MX Browns, have a noticeable tactile bump about midway through the switch. However, they still carry the same MX price at US$1.00/switch.
+
+Box Jades are one of the most popular type of clicky switches as the click that they provide is very, very loud. This click is loved by people who enjoy clickies but is often found annoying by other users that dont normally prefer clickies. They also provide a tactile bump at the same time. They are middle of the road in terms of pricing costing around US$0.60/switch.
+
+Gateron Blues are essentially the same thing as MX Blues, but at the same price as the previously mentioned gateron yellows, being US$0.40/switch. They provide a very similar tactile bump and click as the MX blues while costing much less than their german-made counterparts.
+
