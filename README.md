@@ -1,3 +1,3 @@
 # UnixFinal
 Unix Final Project W2021
-For instructions, please see [INSTALL.md](../blob/main/LICENSE)
+For instructions, please see [INSTALL.md](../main/LICENSE)
