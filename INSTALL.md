@@ -5,7 +5,7 @@
 The prerequesites for this project are as follows:
 
 - [Jekyll](https://jekyllrb.com/docs/installation/)
-- Nginx
+- [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Installation steps
 
