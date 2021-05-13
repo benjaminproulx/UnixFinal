@@ -1,0 +1,31 @@
+[
+  
+    {
+      "title"    : "Switches",
+      "tags"     : "",
+      "url"      : "/switches/",
+      "date"     : "2021-04-28 14:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Size Guide",
+      "tags"     : "",
+      "url"      : "/size/",
+      "date"     : "2021-04-28 14:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Purchasing",
+      "tags"     : "",
+      "url"      : "/purchasing/",
+      "date"     : "2021-04-28 14:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Other Parts",
+      "tags"     : "",
+      "url"      : "/otherparts/",
+      "date"     : "2021-04-28 14:00:00 -0400"
+    } 
+  
+]

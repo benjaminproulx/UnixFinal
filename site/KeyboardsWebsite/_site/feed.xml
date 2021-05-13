@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://klise.now.sh/feed.xml" rel="self" type="application/atom+xml" /><link href="https://klise.now.sh/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-05-12T22:21:07-04:00</updated><id>https://klise.now.sh/feed.xml</id><title type="html">Keyboards</title><subtitle>Site about keyboards</subtitle><author><name>Keyboards</name><email>benjamin.proulx@gmail.com</email></author><entry><title type="html">Other Parts</title><link href="https://klise.now.sh/otherparts/" rel="alternate" type="text/html" title="Other Parts" /><published>2021-04-28T14:00:00-04:00</published><updated>2021-04-28T14:00:00-04:00</updated><id>https://klise.now.sh/otherparts</id><content type="html" xml:base="https://klise.now.sh/otherparts/">&lt;h1 id=&quot;other-parts&quot;&gt;Other Parts&lt;/h1&gt;
+
+&lt;p&gt;While switches are the most complex and nuanced parts that keyboards have, there are many other parts that can obviously not be overlooked, in this section I will go over all the other parts that make a keyboard a keyboard as well as provide examples for each of them.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-case&quot;&gt;The case&lt;/h1&gt;
+
+&lt;p&gt;To some, the case is the most important part of the keyboard as it changes the look of the entire thing. This is essentially the building block upon which all your other parts (PCB, Plate, etc) will be mounted. Cases are often the thing that determines the form factor of the keyboard that you are building. Very popular examples of cases that are all in-stock parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;KDFans Tofu60/65/75&lt;/li&gt;
+  &lt;li&gt;Generic Injection Molded Case&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Keep in mind, that some cases will oftentimes include other parts such as the PCB, Plate, Stabilizers, this is the case with the NovelKeys NK65 Entry/Aluminum editions. The case also plays a major role in the sound of the keyboard, depending on the mounting type that is designed. The main mounting types are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tray Mount&lt;/li&gt;
+  &lt;li&gt;Gasket Mount&lt;/li&gt;
+  &lt;li&gt;Integrated Plate Mount&lt;/li&gt;
+  &lt;li&gt;Bottom Mount&lt;/li&gt;
+  &lt;li&gt;Top Mount&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-pcb&quot;&gt;The PCB&lt;/h1&gt;
+
+&lt;p&gt;The PCB is what you mount your switches too and is the brains of the keyboard, and will be what determines your layout. PCB’s now come in too flavors, solder PCBs and hotswap PCBs. The latter is a recent development in the mechanical keyboard community and is rapidly gaining popularity as it makes it very easy to build as well as provide a quick and easy way to try out different switches without having to desolder an entire board. Solder PCBs require you to solder the switches onto the PCB, making it very hard to change switches later down the road. Popular examples of these PCBs are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;KBDFans DZ60&lt;/li&gt;
+  &lt;li&gt;GH60 Satan&lt;/li&gt;
+  &lt;li&gt;1UP RGB 60% PCB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;plate&quot;&gt;Plate&lt;/h1&gt;
+
+&lt;p&gt;The plate is a piece of material that goes in between your PCB and your switches. Plates essentially make sure that all the switches are in the right place, as well as provide a more rigid unit once completeted. Plates also play a part in the sound of the keyboard depending on the material, with popular plate materials being:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aluminium&lt;/li&gt;
+  &lt;li&gt;Brass&lt;/li&gt;
+  &lt;li&gt;Carbon Fiber&lt;/li&gt;
+  &lt;li&gt;Polycarbonate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aluminium plates tend to be the most standard of the bunch providing a good price/performance ratio, sounding about average and being rigid enough while not breaking the bank. These are often what you will find in many prebuilt boards as they are very common.
+Brass plates are rather expensive compared to their aluminium counterparts, but provide a much more rigid experience while adding weight to the board, something that many people value. They also provide a more consistent sound to the aluminium plates.
+Carbon Fiber and Polycarbonate plates are often picked because they are flexibe and provide a much “softer” typing experience to the user, they also tend to provide a deeper sound than the other plates.&lt;/p&gt;
+
+&lt;h1 id=&quot;stabilizers&quot;&gt;Stabilizers&lt;/h1&gt;
+
+&lt;p&gt;Stabilizers are found on keyboards to make the larger keys (shift, enter, backspace, space) more stable, without them, your spacebar would feel extremely wobbly and would not actuate if hit on the far right or far left. Stabilizers also have a large effect on how these larger keys sound. Stabilizers are probably the component that tends to need the most work into it to sound good, there is a lengthy process to getting these stabilizers to sound as good as they can, a process that is well documented by one of the larger faces in the keyboard community, &lt;a href=&quot;https://youtu.be/usNx1_d0HbQ&quot;&gt;TaehaTypes&lt;/a&gt;. He explains the whole process in depth and with great precision. Stabilizers will oftentimes come with your PCB but if ommited, you can purchase higher quality ones from the like of Durock, Zeal or GMK.&lt;/p&gt;</content><author><name>Keyboards</name><email>benjamin.proulx@gmail.com</email></author><summary type="html">Other Parts</summary></entry><entry><title type="html">Purchasing</title><link href="https://klise.now.sh/purchasing/" rel="alternate" type="text/html" title="Purchasing" /><published>2021-04-28T14:00:00-04:00</published><updated>2021-04-28T14:00:00-04:00</updated><id>https://klise.now.sh/purchasing</id><content type="html" xml:base="https://klise.now.sh/purchasing/">&lt;h1 id=&quot;purchasing-parts&quot;&gt;Purchasing Parts&lt;/h1&gt;
+
+&lt;p&gt;This is where things get more complicated and frankly, more angering than anything. In the custom keyboard world, there are three ways to get parts, Group buys (GB), the after market as well as in-stock. Group Buys are the most common of the three and are oftentimes the most associated with the custom mechanical keyboard community.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-group-buy&quot;&gt;What is a group buy?&lt;/h1&gt;
+
+&lt;p&gt;Group buys (GBs) are run by designers/companies. Oftentimes in the case of developpers, they will run them off of small forums such as &lt;a href=&quot;https://geekhack.org/&quot;&gt;geekhack&lt;/a&gt;. Companies will oftentimes run these group buys off of their site as well as advertiste them on geekhack as well. Group buys all essentially boil down to a couple of stages. The first is an Interest Check (IC) where the group buy runner will post a form to geekhack essentially trying to figure out if there is a big enough market for their product, as well as any feedback on the mockup of the product itself. Keep in mind that oftentimes a this stage, there is not even a single unit of the product. If an IC garners enough attention, this is when they will start taking orders for the product. There are different types of group buys:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unlimited&lt;/li&gt;
+  &lt;li&gt;First Come First Serve / Limited&lt;/li&gt;
+  &lt;li&gt;Raffle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unlimited group buys as the name suggests are unlimited, for the most part, the group buy runner will go to the manufacturer and order a certain amount of units exact to the amount of orders (plus a couple of units for defects). On the other hand, first come first serve GBs have a limit on how many units can be sold, usually ranging from 100-1000, with most landing around 500 units. This means that only the first x amount of people will be allowed to order, essentially making the product more scarce. However, nothing is as scarce as the raffle GBs, which usually only have &amp;lt; 100 unit. Unlike the first come first serve ones however, you only have the chance to buy the product if you win this raffle at a very low chance.&lt;/p&gt;
+
+&lt;p&gt;Group buys come with even more caveats however, as there is never a guarantee of even getting the product, if a designer really wanted, they could just take the thousands of dollars of orders and just run with the money, in practice however, this is very uncommon. This leaves most group buys that will only deliver a product about a year later, this accounts for the time it takes to process orders, put in the order to the actual manufacturer, manufactur the units, then for the designer/company to receive the units and then to ship them all out.&lt;/p&gt;
+
+&lt;p&gt;This begs the question, &lt;em&gt;what is the point of participating in a group buy?&lt;/em&gt; the answer is simple, you get a product that is very limited, that will most likely never come out again and these group buys are oftentimes very high quality products. Another aspect of this can be seen as an investment. For example, a standard GMK Keycap set will be about US$130.00 during a GB, but once it is out and it starts to show up on the aftermarket, those sets can easily double in price. This brings us to the next way of buying products, the aftermarket.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-the-aftermarket&quot;&gt;What is the aftermarket?&lt;/h1&gt;
+
+&lt;p&gt;The aftermarket is in reference to individuals selling products they’ve purchased to to other individuals, this can be in the form of used parts or brand new unopened parts. The most common aftermarket is the subreddit /r/MechMarket, where dozens of posts are made by individuals selling products every day. There are other aftermarkets other places, such as on the geekhack forum. The aftermarket is appealing to people because while the prices are often much higher than they were during the initial group buy, the aftermarket guarantees that the product is in-hand, meaning that you won’t be waiting an entire year to receive what you paid for.&lt;/p&gt;
+
+&lt;p&gt;However, this convenience comes at a very big price. For example, one of my personal “dream keyboards” is a Kyuu, which ran as a group buy in 2018 for US$500. Certain rare version of this keyboard are now selling for upwards of US$2000 on the aftermarket, hence why it really is a “dream keyboard”. For some, this is seen as an investment, and they will buy up many group buys just to sell them on the aftermarket later. A good example of this is the keycap set GMK Striker which sold for 130$, and due to a popular internet personality building a keyboard with it, the keycap sets popularity rose and it was seen on the aftermarket for more than triple the original price.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-in-stock&quot;&gt;What is in-stock?&lt;/h1&gt;
+
+&lt;p&gt;As the name suggests, in-stock products / parts are for the most part in stock, are in continous production and oftentimes are more mass-produced than products in a GB. These parts tend to also be slightly cheaper than the group buy parts because it is easier to produce many of them. There are various retailers that offer keyboard parts, such as 1UPKeyboards, KBDFans, KPRepublic, NovelKeys and many, many more. A lot of these companies also offer the occasional group buy that is very popular. These in-stock parts are much more similar to purchasing something like car or computer parts and are much more easily accesible. The only drawback is that they tend to be more generic and to carry less value than GB products. However, for a begginner in the hobby, this is the way to go.&lt;/p&gt;</content><author><name>Keyboards</name><email>benjamin.proulx@gmail.com</email></author><summary type="html">Purchasing Parts</summary></entry><entry><title type="html">Size Guide</title><link href="https://klise.now.sh/size/" rel="alternate" type="text/html" title="Size Guide" /><published>2021-04-28T14:00:00-04:00</published><updated>2021-04-28T14:00:00-04:00</updated><id>https://klise.now.sh/size</id><content type="html" xml:base="https://klise.now.sh/size/">&lt;p&gt;Keyboards being the multifaceted tool that they are means that different people using them will demand different things from them, some people, such as GitHub user &lt;a href=&quot;https://github.com/TaranVH/2nd-keyboard&quot;&gt;TaranVH&lt;/a&gt;, require many more keys than most need, while others like the push the boundaries of the bare minimum such as GitHub user uuupah who created the &lt;a href=&quot;https://github.com/uuupah/pain27&quot;&gt;pain27&lt;/a&gt;, a keyboard with only the letters of the alphabet and a spacebar. Others prefer to use ergonomic keyboards to prevent RSI and other injuries that can arise from regular keyboards, one of my personal favorite of these is the &lt;a href=&quot;https://github.com/abstracthat/dactyl-manuform&quot;&gt;Dactyl ManuForm&lt;/a&gt;. For the simplicity of this site, we will only be able to cover some of the infinite layouts that are available, as well as the pros and cons for each.&lt;/p&gt;
+
+&lt;h1 id=&quot;full-size--100&quot;&gt;Full-Size / 100%&lt;/h1&gt;
+
+&lt;p&gt;The full size keyboard is the one that most people are used to seeing, it has every key on the keyboard and does not need layers to operate. Despite the fact that this is one of the most common keyboard layouts outside the custom mechanical keyboard space, it is actually one of the least common ones inside of it. For example, out of the 30+ most recently ended group buys, not a single one is for a full-size keyboard, as most people in the custom mechanical keyboard space consider the numpad to be mostly useless. Anyone who is into custom mechanical keyboards and needs a numpad can just build a separate, standalone numpad.&lt;/p&gt;
+
+&lt;h1 id=&quot;80--tkl&quot;&gt;80% / TKL&lt;/h1&gt;
+
+&lt;p&gt;The 80% / TKL layout is one of the most popular layouts in the custom mech space due to the fact that it keeps the arrow keys, function keys, etc. This keyboard sized is loved by many due to the fact that it does not sacrifice much in terms of functionality, while still saving some space (as well as some money on switches / keycaps). This keyboard is very popular among gamers as some of them do not want to sacrifice any functional keys but still want to keep mouse space. Popular examples of this keyboard are the Iron180, NK87 and the KBD8X.&lt;/p&gt;
+
+&lt;h1 id=&quot;75-keyboards&quot;&gt;75% Keyboards&lt;/h1&gt;
+
+&lt;p&gt;The 75% layout is very, very similar to the TKL layout, despite this, it is one of the layouts that has the most difference in what can be considered a “75%”. However, when people say 75%, they usually mean that their keyboard has the basic alphanumeric section, the function keys, the arrow keys as well as a couple keys from the nav cluster. In some 75% keyboards, this means that nearly every single key is present and that they are all in one are with no gaps, while on others there are smaller gaps. Keyboards such as the GMMK Pro, Satisfaction75 and the KBD75, all fit within this category.&lt;/p&gt;
+
+&lt;h1 id=&quot;60-keyboards&quot;&gt;60% Keyboards&lt;/h1&gt;
+
+&lt;p&gt;The 60% layout the most popular form factor in the custom keyboard community, as it has the widest availabity of off the shelf parts, something that the rest of these keyboard sizes often lack. This is due to the fact that these are often more budget boards, as the cases tend to be smaller and the PCBs requiring less switches / less keycaps. This keyboard form factor is simple, it only keeps the alphanumeric section, leaving out the function keys, arrow keys, nav cluster as well as the numpad. However, an increasing amount of these keyboards replace the bottom right of the keyboard with arrow keys, as a lot of people do not use the right shift, right windows, right control and menu keys. Popular keyboards of this type are the Tofu60, Fjell and BM60 keyboards.&lt;/p&gt;
+
+&lt;h1 id=&quot;65-keyboards&quot;&gt;65% Keyboards&lt;/h1&gt;
+
+&lt;p&gt;The 65% keyboard layout is becoming more and more popular these days, with a lot of people wanting the small size of a 65% keyboard while still wanting arrow keys and a couple of keys from the nav cluster, this keyboard layout is often the same as 60%, with the only difference being that there is an extra row on the right of the keyboard, that contains keys such as Delete, Pg Up, Pg Down, etc. Popular keyboards of this type are the NK65, Ikki 68 and the Anne Pro.&lt;/p&gt;
+
+&lt;h1 id=&quot;40--50-keyboards&quot;&gt;40% / 50% Keyboards&lt;/h1&gt;
+
+&lt;p&gt;The 40% / 50% keyboards are both very similar, and these are the keyboarrds that people often consider way too small for daily use. However, they have a very niche following of people that swear by them , these keyboards are often the same as a 60% keyboard, but with the number keys on the top taken off, leaving just 4 rows on the keyboard. Oftentimes these boards are ortholinear in design, allowing users to fit more in the small space. 50% Keyboards are very similar to the 40% Keyboards but usually have a column of keys added on the left or right side for macros / other functions. Popular keyboards of this type are the Planck and the TMOv2&lt;/p&gt;
+
+&lt;h1 id=&quot;ortholinear--ergonomic-keyboards&quot;&gt;Ortholinear / Ergonomic Keyboards&lt;/h1&gt;
+
+&lt;p&gt;These keyboards oftentimes will fit in other size categories, however, they are special because they oftentimes greatly differ from the rest of keyboards and will oftentimes have a very, very nonstandard layout, with multiple layers and function keys. These keyboards are oftentimes made to provide a more natural and comfortable typing position, to avoid things like RSI. These keyboards come in many different shapes and sizes, some of them being split, some of them with angles rows and some with straight columns. Popular examples of these are the Alice, Dactyl Manuform and Ergodox EZ&lt;/p&gt;
+
+&lt;h1 id=&quot;-40-keyboards&quot;&gt;&amp;lt; 40$ Keyboards&lt;/h1&gt;
+&lt;p&gt;Oftentimes, keyboards under this size are keyboards that are not intended for daily use, such as the afformentioned Pain27, or things like numpads and macropads, that are meant as accessories for regular sized keyboards. In the case of macropads, they are often programmed to provide more functionality to the user or act as media keys. There are hundreds of designs for these, and they vary greatly.&lt;/p&gt;</content><author><name>Keyboards</name><email>benjamin.proulx@gmail.com</email></author><summary type="html">Keyboards being the multifaceted tool that they are means that different people using them will demand different things from them, some people, such as GitHub user TaranVH, require many more keys than most need, while others like the push the boundaries of the bare minimum such as GitHub user uuupah who created the pain27, a keyboard with only the letters of the alphabet and a spacebar. Others prefer to use ergonomic keyboards to prevent RSI and other injuries that can arise from regular keyboards, one of my personal favorite of these is the Dactyl ManuForm. For the simplicity of this site, we will only be able to cover some of the infinite layouts that are available, as well as the pros and cons for each.</summary></entry><entry><title type="html">Switches</title><link href="https://klise.now.sh/switches/" rel="alternate" type="text/html" title="Switches" /><published>2021-04-28T14:00:00-04:00</published><updated>2021-04-28T14:00:00-04:00</updated><id>https://klise.now.sh/switches</id><content type="html" xml:base="https://klise.now.sh/switches/">&lt;h1 id=&quot;what-are-switches&quot;&gt;What are switches?&lt;/h1&gt;
+
+&lt;p&gt;Switches are the part that makes a mechanical keyboard mechanical. Until recently, a german company under the name Cherry held a patent over the mechanical switches and dominated the market. Thankfully, their patent from 1973 has expired in the recent years which has caused a surge in different companies making switches. Since then companies such as Gateron and Kaihua / Kailh have made switches that are both better and more durable and expanded the market with a plethora of options, too many to even cover all of them in this guide, however, there are 3 categories of switches and most people tend to have their preference of switches, those categories include linears, tactiles and clickies.&lt;/p&gt;
+
+&lt;h1 id=&quot;linears&quot;&gt;Linears&lt;/h1&gt;
+&lt;p&gt;Linears are the most standard switches of the bunch, providing a smooth and as the name suggests, linear actuation of the switch. These switches oftentimes actuate about midway through the bottom out. Popular options of linears are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cherry MX Reds&lt;/li&gt;
+  &lt;li&gt;NK Creams&lt;/li&gt;
+  &lt;li&gt;Gateron Yellows&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cherry MX Reds are quite expensive in terms of pricing, costing about US$1.00/switch, which is not a very good price due to the fact that they are considered quite scratchy for linears. However, they are popular because they are the name brand and are included in many pre-built boards.&lt;/p&gt;
+
+&lt;p&gt;NK Creams are a very popular linear switch due to being very reasonably priced US$0.65 and are manufactured by Kaihua / Kailh for Novelkeys, which is about middle of the road for mechanical keyboard switches. These switches are widely regarded as some of the smoothest stock switches you can get without lubricating the switches. I personally have some of them and find them very smooth.&lt;/p&gt;
+
+&lt;p&gt;Gateron Yellows are the budget option as they are priced at the very cheap at anywhere between US$0.20/switch and US$0.40/switch. For the price, they are considered to be very smooth and a lot of people building budget boards will choose these switches. They also take lube very well and can end up being some of the smoothest switches possible.&lt;/p&gt;
+
+&lt;h1 id=&quot;tactiles&quot;&gt;Tactiles&lt;/h1&gt;
+
+&lt;p&gt;Tactile switches are characterized by their tactile bump during actuation, allowing you to feel the exact moment when your keystroke will be registered by the keyboard, this provides an almost typewriter like experience that many people enjoy. Popular options for tactiles are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cherry MX Browns&lt;/li&gt;
+  &lt;li&gt;Durock T1s&lt;/li&gt;
+  &lt;li&gt;Hako Clear / True&lt;/li&gt;
+  &lt;li&gt;Holy Pandas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Much like the aformentionned Cherry MX Reds, the same story applies with the Cherry MX Browns, while they are popular, they are overprices at US$1.00/switch. While they are technically considered tactiles, many users report that they instead feel like “scratchy linears”, something that has become a tongue-and-cheek joke in the mechanical community.&lt;/p&gt;
+
+&lt;p&gt;Durock T1s are very reasonably priced about US$0.55/switch, and have a very pronounced tactile bump at the start of the top of the key press, they are very popular as they are very similar to the more expensive Zealios V2 switches that are much, much more expensive.&lt;/p&gt;
+
+&lt;p&gt;Hako Clear / True switches are essentially the same with different weight springs, the bump on the Hako switches is less pronounced than the one on the T1s, but more than the Cherry MX browns, providing a good middle ground that many users enjoy, in addition to this, they are very reasonably priced at about US$0.40/switch.&lt;/p&gt;
+
+&lt;p&gt;Holy Pandas are a very rare, and very sought after. They are a switch that essentially combines different parts from two different switches. According to users, these switches provide a very pronounced and smooth tactile feeling that is heavily desirable. This low supply and high demand causes their price to rise, being very expensive switches at around US$1.50/switch.&lt;/p&gt;
+
+&lt;h1 id=&quot;clickies&quot;&gt;Clickies&lt;/h1&gt;
+
+&lt;p&gt;Clickies are often the poster-child of mechanical keyboards, popularized by gaming keyboards such as the lower quality Razer Hunstman keyboard line. Despite these being often recognized as mechanical keyboard switches, they are one of the least popular switches in the custom mechanical keyboard community. These switches are characterized by the audible “click” when the switch is actuated. These switches are also tactile as there is a bump at the same time as the click. Popular options for clicky switches areas follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cherry MX Blues&lt;/li&gt;
+  &lt;li&gt;Box Jades&lt;/li&gt;
+  &lt;li&gt;Gateron Blues&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cherry MX Blues are the odd man out in the Cherry MX family as they are actually quite good at what they set out to accomplish, they provide a satisfying click when actuated and unlike the MX Browns, have a noticeable tactile bump about midway through the switch. However, they still carry the same MX price at US$1.00/switch.&lt;/p&gt;
+
+&lt;p&gt;Box Jades are one of the most popular type of clicky switches as the click that they provide is very, very loud. This click is loved by people who enjoy clickies but is often found annoying by other users that dont normally prefer clickies. They also provide a tactile bump at the same time. They are middle of the road in terms of pricing costing around US$0.60/switch.&lt;/p&gt;
+
+&lt;p&gt;Gateron Blues are essentially the same thing as MX Blues, but at the same price as the previously mentioned gateron yellows, being US$0.40/switch. They provide a very similar tactile bump and click as the MX blues while costing much less than their german made counterparts.&lt;/p&gt;</content><author><name>Keyboards</name><email>benjamin.proulx@gmail.com</email></author><summary type="html">What are switches?</summary></entry></feed>
