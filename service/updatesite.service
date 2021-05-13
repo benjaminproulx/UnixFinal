@@ -1,0 +1,12 @@
+[Unit]
+Description=Script to update website
+
+[Service]
+User=root
+WorkingDirectory=/home/benjamin/UnixFinal/site/KeyboardsWebsite
+ExecStart=/bin/bash /home/benjamin/UnixFinal/scripts/updatesite.sh
+Restart=always
+RestartSec=300
+
+[Install]
+WantedBy=multi-user.target
